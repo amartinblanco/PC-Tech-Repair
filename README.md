@@ -1,0 +1,94 @@
+# PC-Tech-Repair
+Servicio técnico de reparación de ordenadores y dispositivos electrónicos. Solucionamos problemas de hardware y software, formateos y mantenimiento para que tus equipos funcionen como nuevos. Atención rápida y profesional para particulares y empresas.
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PC & Tech Repair | Reparación en Las Rozas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #111;
+      color: #fff;
+      text-align: center;
+    }
+    header {
+      background: #0a84ff;
+      padding: 20px;
+      font-size: 26px;
+      font-weight: bold;
+    }
+    .container {
+      padding: 40px 20px;
+    }
+    .services {
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: left;
+      background: #222;
+      padding: 20px;
+      border-radius: 8px;
+    }
+    .services h2 {
+      text-align: center;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #0a84ff;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+    .btn:hover {
+      background: #0666cc;
+    }
+    footer {
+      margin-top: 40px;
+      padding: 10px;
+      background: #000;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    PC & Tech Repair
+  </header>
+
+  <div class="container">
+    <h1>Reparación de ordenadores y electrónica en Las Rozas</h1>
+    <p>Servicio técnico presencial. No solo hablamos por internet: reparamos tus equipos en persona para mayor confianza y resultados rápidos.</p>
+  </div>
+
+  <div class="services">
+    <h2>Servicios que ofrecemos</h2>
+    <ul>
+      <li>✔ Reparación de ordenadores (PC y portátiles)</li>
+      <li>✔ Formateos e instalación de sistemas</li>
+      <li>✔ Solución de problemas de software</li>
+      <li>✔ Cambio de piezas y componentes</li>
+      <li>✔ Limpieza y mantenimiento interno</li>
+      <li>✔ Diagnóstico de fallos</li>
+    </ul>
+    <p>Trabajamos con equipos de particulares y pequeñas empresas. Nuestro objetivo es devolver tus dispositivos a la vida con rapidez y calidad.</p>
+  </div>
+
+  <div class="container">
+    <h2>Servicio presencial</h2>
+    <p>Nos encontramos en Las Rozas. Puedes traer tu equipo y lo revisamos en nuestro taller.</p>
+    <p>Atención personalizada y explicaciones claras sobre las reparaciones.</p>
+    <a class="btn" href="#contacto">Contáctanos</a>
+  </div>
+
+  <footer>
+    © 2025 PC & Tech Repair - Reparación de ordenadores y electrónica en Las Rozas
+  </footer>
+
+</body>
+</html>
