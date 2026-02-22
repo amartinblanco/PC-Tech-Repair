@@ -47,6 +47,12 @@ Servicio técnico de reparación de ordenadores y dispositivos electrónicos. So
     .btn:hover {
       background: #0666cc;
     }
+    .contact {
+      background: #222;
+      padding: 20px;
+      margin-top: 40px;
+      border-radius: 8px;
+    }
     footer {
       margin-top: 40px;
       padding: 10px;
@@ -63,7 +69,8 @@ Servicio técnico de reparación de ordenadores y dispositivos electrónicos. So
 
   <div class="container">
     <h1>Reparación de ordenadores y electrónica en Las Rozas</h1>
-    <p>Servicio técnico presencial. No solo hablamos por internet: reparamos tus equipos en persona para mayor confianza y resultados rápidos.</p>
+    <p>Servicio técnico presencial. Trae tu equipo y lo reparamos en persona. Soluciones rápidas y explicaciones claras.</p>
+    <p>Nos especializamos en hardware, software, formateos, mantenimiento y cambio de piezas.</p>
   </div>
 
   <div class="services">
@@ -75,19 +82,27 @@ Servicio técnico de reparación de ordenadores y dispositivos electrónicos. So
       <li>✔ Cambio de piezas y componentes</li>
       <li>✔ Limpieza y mantenimiento interno</li>
       <li>✔ Diagnóstico de fallos</li>
+      <li>✔ Asesoramiento para mejorar rendimiento</li>
     </ul>
-    <p>Trabajamos con equipos de particulares y pequeñas empresas. Nuestro objetivo es devolver tus dispositivos a la vida con rapidez y calidad.</p>
+    <p>Trabajamos con particulares y pequeñas empresas. Nuestro objetivo es que tus dispositivos vuelvan a funcionar como nuevos.</p>
   </div>
 
   <div class="container">
-    <h2>Servicio presencial</h2>
-    <p>Nos encontramos en Las Rozas. Puedes traer tu equipo y lo revisamos en nuestro taller.</p>
-    <p>Atención personalizada y explicaciones claras sobre las reparaciones.</p>
+    <h2>Servicio presencial en Las Rozas</h2>
+    <p>Atención personalizada. Revisamos tu equipo y te explicamos la solución paso a paso.</p>
+    <p>Rápido, profesional y con garantía en las reparaciones.</p>
     <a class="btn" href="#contacto">Contáctanos</a>
   </div>
 
+  <div id="contacto" class="contact">
+    <h2>Contacto</h2>
+    <p>📧 Email: amartinblanco@outlook.es</p>
+    <p>📱 Teléfono: 656730211</p>
+    <p>Escríbenos o llámanos para pedir cita. Te atenderemos lo antes posible.</p>
+  </div>
+
   <footer>
-    © 2025 PC & Tech Repair - Reparación de ordenadores y electrónica en Las Rozas
+    © 2025 PC & Tech Repair - Reparación de ordenadores y electrónica
   </footer>
 
 </body>
