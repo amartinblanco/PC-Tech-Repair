@@ -25,7 +25,7 @@ Servicio técnico de reparación de ordenadores y dispositivos electrónicos. So
       padding: 40px 20px;
     }
     .services {
-      max-width: 800px;
+      max-width: 900px;
       margin: 0 auto;
       text-align: left;
       background: #222;
@@ -34,6 +34,16 @@ Servicio técnico de reparación de ordenadores y dispositivos electrónicos. So
     }
     .services h2 {
       text-align: center;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 10px;
+      margin-top: 20px;
+    }
+    .gallery img {
+      width: 100%;
+      border-radius: 8px;
     }
     .btn {
       display: inline-block;
@@ -70,7 +80,7 @@ Servicio técnico de reparación de ordenadores y dispositivos electrónicos. So
   <div class="container">
     <h1>Reparación de ordenadores y electrónica en Las Rozas</h1>
     <p>Servicio técnico presencial. Trae tu equipo y lo reparamos en persona. Soluciones rápidas y explicaciones claras.</p>
-    <p>Nos especializamos en hardware, software, formateos, mantenimiento y cambio de piezas.</p>
+    <p>Especialistas en hardware, software, formateos, mantenimiento y cambio de piezas.</p>
   </div>
 
   <div class="services">
@@ -85,6 +95,13 @@ Servicio técnico de reparación de ordenadores y dispositivos electrónicos. So
       <li>✔ Asesoramiento para mejorar rendimiento</li>
     </ul>
     <p>Trabajamos con particulares y pequeñas empresas. Nuestro objetivo es que tus dispositivos vuelvan a funcionar como nuevos.</p>
+
+    <div class="gallery">
+      <img src="https://via.placeholder.com/300x200?text=Reparacion+PC" alt="Reparación de PC">
+      <img src="https://via.placeholder.com/300x200?text=Diagnostico" alt="Diagnóstico de fallos">
+      <img src="https://via.placeholder.com/300x200?text=Limpieza+Interna" alt="Limpieza interna">
+      <img src="https://via.placeholder.com/300x200?text=Componentes" alt="Cambio de componentes">
+    </div>
   </div>
 
   <div class="container">
@@ -96,8 +113,8 @@ Servicio técnico de reparación de ordenadores y dispositivos electrónicos. So
 
   <div id="contacto" class="contact">
     <h2>Contacto</h2>
-    <p>📧 Email: amartinblanco@outlook.es</p>
-    <p>📱 Teléfono: 656730211</p>
+    <p>📧 Email: <strong>amartinblanco@outlook.es</strong></p>
+    <p>📱 Teléfono: <strong>656730211</strong></p>
     <p>Escríbenos o llámanos para pedir cita. Te atenderemos lo antes posible.</p>
   </div>
 
